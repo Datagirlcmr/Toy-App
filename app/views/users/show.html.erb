@@ -10,5 +10,10 @@
   <%= @user.email %>
 </p>
 
+<p>
+  <h5>Post id: </h5><%= @user.microposts.first.id %>
+  <h5>Post content: </h5><%= @user.microposts.first.content %>
+<p>
+
 <%= link_to 'Edit', edit_user_path(@user) %> |
 <%= link_to 'Back', users_path %>
