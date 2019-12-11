@@ -22,6 +22,7 @@ by rapidly generating an application using scaffold generators, which create a l
 ## Getting Started
 
 **start by generating the application skeleton using the rails new command with a specific Rails version number:
+
 $ cd ~/environment
 $ rails _6.0.1_ new toy_app
 $ cd toy_app/
@@ -59,7 +60,7 @@ Give a ⭐️ if you like this project!
 
 - MicroverseInc(https://www.microverse.org/)
 - Rails Tutorial(https://www.railstutorial.org/book/toy_app)
-- etc
+
 
 ## 📝 License
 
