@@ -2,7 +2,7 @@
 
 >  Developing a toy demo application to show off some of the power of Rails.
 
-![screenshot](../docs/image.png)
+![screenshot](./docs/image.png)
 
 The purpose is to get a high-level overview of Ruby on Rails programming (and web development in general)
 by rapidly generating an application using scaffold generators, which create a large amount of functionality automatically.
